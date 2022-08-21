@@ -2,20 +2,26 @@
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
 name = "Simple Bird"
+description = "Simple Bird - Light weight. Blazing fast."
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/morelmiles/simple-bird/blob/master/LICENSE"
 homepage = "http://example.com/"
-tags = []
+tags = [
+  "blog",
+  "personal",
+  "website",
+  "clean",
+  "customizable",
+  "dark",
+  "highlighting",
+  "light",
+  "minimal",
+  "monochromatic",
+]
+
 features = []
-min_version = "0.41"
+min_version = "0.68"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Luigi Morel"
+  homepage = "https://luigimorel.co"
